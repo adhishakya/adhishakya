@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Adhish.</h2>
+<h2 align="left">Hello <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">! My name is Adhish.</h2>
 
 ###
 
