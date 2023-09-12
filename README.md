@@ -1,4 +1,4 @@
-<img src = "https://media.giphy.com/media/l0Iyn34fotpL8K9wI/giphy.gif" height="700" width="900">
+<img src = "https://media.giphy.com/media/l0Iyn34fotpL8K9wI/giphy.gif" height="500" width="600">
 
 <h2 align="left">Hello <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">! My name is Adhish.</h2>
 
