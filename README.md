@@ -1,4 +1,4 @@
-<img src = "https://tenor.com/view/pusheen-toe-beans-plop-gif-5535029805186096865" height="400">
+<img src = "https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" height="300">
 
 <h2 align="left">Hello <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">! My name is Adhish.</h2>
 
